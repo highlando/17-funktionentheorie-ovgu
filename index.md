@@ -17,7 +17,7 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 :memo: Zu den [&Uuml;bungen](#uebungen).
 
 <h3 id="overview">&Uuml;bersicht &uuml;ber die Vorlesung</h3>
- 0. Historische Einf&uuml;hrung und grundlegende Konzepte[[Woche 1]](#woche-1)
+ 0. Historische Einf&uuml;hrung und grundlegende Konzepte [[Woche 1]](#woche-1)
    * Historischer Abriss und Anwendungen
    * Einf&uuml;hrung in die komplexen Zahlen
    * Reihen komplexer Zahlen
@@ -27,7 +27,7 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 
 | Date | Topic | Sheet |
 | ------- | ------ | ------- |
-| [tba](#exercisei) | I - TBA | [comingsoon.pdf](exercises/01/ueb01.pdf) |
+| [tba](#exercisei) | I - Komplexe Zahlen | [blatt_01.pdf](files/blatt_01.pdf) |
 
 ### Woche 1
 
@@ -41,4 +41,6 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 | Author | Titel | Kommentar |
 | ------- | ------ | ------- |
 | Herz, A. | Repetitorium Funktionentheorie | noch nicht reingeschaut |
-| J&auml;nich, K. | Funktionentheorie: eine Einf&uuml;hrung | noch nicht reingeschaut |
+| J&auml;nich, Klaus | Funktionentheorie: eine Einf&uuml;hrung | noch nicht reingeschaut |
+http://dx.doi.org/10.1007/978-3-0348-4119-1?nosfx=y
+http://dx.doi.org/10.1007/978-3-662-07348-3?nosfx=y
