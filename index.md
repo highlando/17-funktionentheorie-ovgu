@@ -17,7 +17,7 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 :memo: Zu den [&Uuml;bungen](#uebungen).
 
 <h3 id="overview">&Uuml;bersicht &uuml;ber die Vorlesung</h3>
- 0. Historische Einf&uuml;hrung und grundlegende Konzepte[[week 1]](#week-1)
+ 0. Historische Einf&uuml;hrung und grundlegende Konzepte[[Woche 1]](#woche-1)
    * Historischer Abriss und Anwendungen
    * Einf&uuml;hrung in die komplexen Zahlen
    * Reihen komplexer Zahlen
