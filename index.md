@@ -31,12 +31,12 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 
 ### Woche 1
 
-#### Einf&uuml;rung
+#### Einf&uuml;hrung
 
 +++ Entdeckung/Entwicklung und Formalisierung der komplexen Zahlen +++ Mathematische Definition +++ Rechnen mit komplexen Zahlen [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
 
-#### Literature
+#### Literatur
 
 | Author | Titel | Kommentar |
 | ------- | ------ | ------- |
