@@ -40,7 +40,5 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 
 | Author | Titel | Kommentar |
 | ------- | ------ | ------- |
-| Herz, A. | Repetitorium Funktionentheorie | noch nicht reingeschaut |
+| Herz, A. | Repetitorium Funktionentheorie | enth&auml;lt alle Inhalte der Vorlesung -- wenig Flie&szlig;text ++ viele Beispiele und durchgerechnete &Uuml;bungsaufgaben |
 | J&auml;nich, Klaus | Funktionentheorie: eine Einf&uuml;hrung | noch nicht reingeschaut |
-http://dx.doi.org/10.1007/978-3-0348-4119-1?nosfx=y
-http://dx.doi.org/10.1007/978-3-662-07348-3?nosfx=y
