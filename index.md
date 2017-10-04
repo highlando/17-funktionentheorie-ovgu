@@ -33,12 +33,12 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 
 #### Einf&uuml;hrung
 
-+++ Entdeckung/Entwicklung und Formalisierung der komplexen Zahlen +++ Mathematische Definition +++ Rechnen mit komplexen Zahlen [zur&uuml;ck zur &Uuml;bersicht](#overview)
++++ Entdeckung/Entwicklung und Formalisierung der komplexen Zahlen +++ Mathematische Definition +++ Rechnen mit komplexen Zahlen +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
 
 #### Literatur
 
 | Author | Titel | Kommentar |
 | ------- | ------ | ------- |
-| Herz, A. | Repetitorium Funktionentheorie | enth&auml;lt alle Inhalte der Vorlesung -- wenig Flie&szlig;text ++ viele Beispiele und durchgerechnete &Uuml;bungsaufgaben |
-| J&auml;nich, Klaus | Funktionentheorie: eine Einf&uuml;hrung | noch nicht reingeschaut |
+| Herz, Andreas | Repetitorium Funktionentheorie | enth&auml;lt alle Inhalte der Vorlesung -- wenig Flie&szlig;text ++ viele Beispiele und durchgerechnete &Uuml;bungsaufgaben |
+| J&auml;nich, Klaus | Funktionentheorie: eine Einf&uuml;hrung | viel Text und viele Erkl&auml;rungen ++ setzt Kenntnisse der komplexen Zahlen und der Differentialrechnung im Reellen voraus |
