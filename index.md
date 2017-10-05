@@ -27,7 +27,7 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 
 | Date | Topic | Sheet |
 | ------- | ------ | ------- |
-| [tba](#exercisei) | I - Komplexe Zahlen | [blatt_01.pdf](files/blatt_01.pdf) |
+| [26. Oktober](#exercisei) | I - Komplexe Zahlen | [blatt_01.pdf](files/blatt_01.pdf) |
 
 ### Woche 1
 
@@ -35,6 +35,10 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 
 +++ Entdeckung/Entwicklung und Formalisierung der komplexen Zahlen +++ Mathematische Definition +++ Rechnen mit komplexen Zahlen +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
+### Woche 3
+
+<h4 id="exercisei"> &Uuml;bungsblatt 1 -- 26. Oktober </h4>
++++ Rechnen mit komplexen Zahlen +++ Wurzeln ziehen +++ Betragsungleichungen +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
 #### Literatur
 
