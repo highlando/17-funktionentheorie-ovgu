@@ -19,9 +19,12 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 <h3 id="overview">&Uuml;bersicht &uuml;ber die Vorlesung</h3>
  0. Historische Einf&uuml;hrung und grundlegende Konzepte [[Woche 1]](#woche-1)
    * Historischer Abriss und Anwendungen
-   * Einf&uuml;hrung in die komplexen Zahlen
-   * Reihen komplexer Zahlen
    * [Literatur](#literature)
+ 1. Grundlagen
+   * Einf&uuml;hrung in die komplexen Zahlen
+   * Rechnen mit komplexen Zahlen
+   * Polardarstellung [[Woche 2]](#woche-2)
+   * (konvergente) Reihen komplexer Zahlen
 
 <h3 id='uebungen'>&Uuml;bungen</h3>
 
@@ -34,6 +37,10 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 #### Einf&uuml;hrung
 
 +++ Entdeckung/Entwicklung und Formalisierung der komplexen Zahlen +++ Mathematische Definition +++ Rechnen mit komplexen Zahlen +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
+
+#### Woche 2
+
++++ Polardarstellung +++ Potenzieren und Wurzel ziehen +++ (konvergente) Potenzreihen +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
 ### Woche 3
 
