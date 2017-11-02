@@ -32,6 +32,7 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 | Date | Topic | Sheet |
 | ------- | ------ | ------- |
 | [26. Oktober](#exercisei) | I - Komplexe Zahlen | [blatt_01.pdf](files/blatt_01.pdf) |
+| [09. November](#exerciseii) | II - Potenzreihen und `Sin/Cos/Exp` | [blatt_02.pdf](files/blatt_02.pdf) |
 
 ### Woche 1
 
@@ -49,7 +50,11 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 +++ Rechnen mit komplexen Zahlen +++ Wurzeln ziehen +++ Betragsungleichungen +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
 ### Woche 4
-+++ Sinus, Cosinus und die Exponentialfunktion als Potenzreihen +++ Additionstheoreme +++ Approximation durch abgeschnittene Potenzreihen +++ :chart_with_upwards_trend: [Illustration](files/truncatedsines.html) -- :floppy_disk: [pythoncode](files/sinus-series-test.py) +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
++++ Sinus, Cosinus und die Exponentialfunktion als Potenzreihen +++ Additionstheoreme +++ Approximation durch abgeschnittene Potenzreihen +++ :chart_with_upwards_trend: [Illustration](files/truncatedsines.html) -- :floppy_disk: [pythoncode](files/sinus-series-test.py)  +++ Stetigkeit und Darstellung komplexer Funktionen +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
+
+### Woche 5
+<h4 id="exerciseii"> &Uuml;bungsblatt 2 -- 09. November </h4>
++++ Potenzreihen +++ Exp/Sin/Cos +++ Exponentialgesetze und Additionstheoreme +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
 #### Literatur
 
