@@ -25,6 +25,7 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
    * Rechnen mit komplexen Zahlen
    * Polardarstellung [[Woche 2]](#woche-2)
    * (konvergente) Reihen komplexer Zahlen
+   * Sinus, Cosinus, Exponentialfunktion [[Woche 4]](#woche-4)
 
 <h3 id='uebungen'>&Uuml;bungen</h3>
 
@@ -47,7 +48,7 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 <h4 id="exercisei"> &Uuml;bungsblatt 1 -- 26. Oktober </h4>
 +++ Rechnen mit komplexen Zahlen +++ Wurzeln ziehen +++ Betragsungleichungen +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
-### Woche 3
+### Woche 4
 +++ Sinus, Cosinus und die Exponentialfunktion als Potenzreihen +++ Additionstheoreme +++ Approximation durch abgeschnittene Potenzreihen -- [Illustration](files/truncatedsines.html) [pythoncode](files/sinus-series-test.py) +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
 #### Literatur
