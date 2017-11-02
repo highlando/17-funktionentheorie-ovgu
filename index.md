@@ -49,7 +49,7 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 +++ Rechnen mit komplexen Zahlen +++ Wurzeln ziehen +++ Betragsungleichungen +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
 ### Woche 4
-+++ Sinus, Cosinus und die Exponentialfunktion als Potenzreihen +++ Additionstheoreme +++ Approximation durch abgeschnittene Potenzreihen -- [Illustration](files/truncatedsines.html) [pythoncode](files/sinus-series-test.py) +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
++++ Sinus, Cosinus und die Exponentialfunktion als Potenzreihen +++ Additionstheoreme +++ Approximation durch abgeschnittene Potenzreihen +++ :chart_with_upwards_trend: [Illustration](files/truncatedsines.html) -- :floppy_disk: [pythoncode](files/sinus-series-test.py) +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
 #### Literatur
 
