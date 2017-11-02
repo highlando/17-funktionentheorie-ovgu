@@ -5,13 +5,13 @@ layout: index
 Vorlesung und &Uuml;bungen zur Funktionentheorie - OvGU - 2017
 -----
 
-> :rocket: In den ersten 3 Wochen, finden nur die Veranstaltungen am Donnerstag statt. 
+> :rocket: Raum- und Zeit&auml;nderung: Ab sofort sind wir Dienstags im G224-119 (anstelle des Montagstermins).
 
 Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktionentheorie* and der OvGU im Wintersemester 2017. Verantwortlich sind [Jan Heiland](http://www.mpi-magdeburg.mpg.de/person/29457/822630) and [Steffen Werner](http://www.mpi-magdeburg.mpg.de/person/38514/822672).
 
 | Tag | Zeit | Ort |
 | ------- | ------ | ------- |
-| Montag | 11:00-13:00 | G12-129 |
+| Dienstag | 11:00-13:00 | G22A-119 |
 | Donnerstag | 11:00-13:00 | G12-201 |
 
 :memo: Zu den [&Uuml;bungen](#uebungen).
@@ -38,7 +38,7 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 
 +++ Entdeckung/Entwicklung und Formalisierung der komplexen Zahlen +++ Mathematische Definition +++ Rechnen mit komplexen Zahlen +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
-#### Woche 2
+### Woche 2
 
 +++ Polardarstellung +++ Potenzieren und Wurzel ziehen +++ (konvergente) Potenzreihen +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
@@ -46,6 +46,9 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 
 <h4 id="exercisei"> &Uuml;bungsblatt 1 -- 26. Oktober </h4>
 +++ Rechnen mit komplexen Zahlen +++ Wurzeln ziehen +++ Betragsungleichungen +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
+
+### Woche 3
++++ Sinus, Cosinus und die Exponentialfunktion als Potenzreihen +++ Additionstheoreme +++ Approximation durch abgeschnittene Potenzreihen -- [Illustration](files/truncatedsines.html) [pythoncode](files/sinus-series-test.py) +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
 #### Literatur
 
