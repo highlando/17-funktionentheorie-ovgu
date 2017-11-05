@@ -5,7 +5,7 @@ layout: index
 Vorlesung und &Uuml;bungen zur Funktionentheorie - OvGU - 2017
 -----
 
-> :rocket: Raum- und Zeit&auml;nderung: Ab sofort sind wir Dienstags im G224-119 (anstelle des Montagstermins).
+> :rocket: Raum- und Zeit&auml;nderung: Ab sofort sind wir Dienstags im G22A-119 (anstelle des Montagstermins).
 
 Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktionentheorie* and der OvGU im Wintersemester 2017. Verantwortlich sind [Jan Heiland](http://www.mpi-magdeburg.mpg.de/person/29457/822630) and [Steffen Werner](http://www.mpi-magdeburg.mpg.de/person/38514/822672).
 
