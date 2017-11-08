@@ -51,12 +51,19 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 
 ### Woche 4
 +++ Sinus, Cosinus und die Exponentialfunktion als Potenzreihen +++ Additionstheoreme +++ Approximation durch abgeschnittene Potenzreihen +++ :chart_with_upwards_trend: [Illustration](files/truncatedsines.html) -- :floppy_disk: [pythoncode](files/sinus-series-test.py)  +++ Stetigkeit und Darstellung komplexer Funktionen +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
+![truncated sine](files/figure_truncatedsine.png)
 
 ### Woche 5
++++ Stetigkeit von Verk&uuml;pfungen +++ Differenzierbarkeit und holomorphe Funktionen +++ Rechenregeln zur Ableitung +++ "holomorphe Funktionen sind beliebig oft differenzierbar" +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
+
+
 <h4 id="exerciseii"> &Uuml;bungsblatt 2 -- 09. November </h4>
 +++ Potenzreihen +++ Exp/Sin/Cos +++ Exponentialgesetze und Additionstheoreme +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
-#### Literatur
+
+### Woche 6
+
+### Literatur
 
 | Author | Titel | Kommentar |
 | ------- | ------ | ------- |
