@@ -63,6 +63,11 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 
 ### Woche 6
 
+### Woche 7
+
+<h4 id="exerciseii"> &Uuml;bungsblatt 2 -- 23. November </h4>
++++ Komplexe Differenzierbarkeit +++ Cauchy-Riemann Differentialgleichungen +++ Ableitung von Potenzreihen +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
+
 ### Literatur
 
 | Author | Titel | Kommentar |
