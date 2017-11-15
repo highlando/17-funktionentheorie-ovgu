@@ -33,6 +33,7 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 | ------- | ------ | ------- |
 | [26. Oktober](#exercisei) | I - Komplexe Zahlen | [blatt_01.pdf](files/blatt_01.pdf) |
 | [09. November](#exerciseii) | II - Potenzreihen und `Sin/Cos/Exp` | [blatt_02.pdf](files/blatt_02.pdf) |
+| [23. November](#exerciseii) | III - Stetigkeit und Differenzierbarkeit | [blatt_03.pdf](files/blatt_03.pdf) |
 
 ### Woche 1
 
