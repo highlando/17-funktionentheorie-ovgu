@@ -26,6 +26,11 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
    * Polardarstellung [[Woche 2]](#woche-2)
    * (konvergente) Reihen komplexer Zahlen
    * Sinus, Cosinus, Exponentialfunktion [[Woche 4]](#woche-4)
+ 2. Differentiation im Komplexen
+   * Holomorphe Funktionen [[Woche 5]](#woche-5)
+   * Cauchy-Riemann'sche Differentialgleichungen 
+   * Strecken- und Winkeltreue holomorpher Funktionen
+
 
 <h3 id='uebungen'>&Uuml;bungen</h3>
 
@@ -59,15 +64,16 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 
 
 <h4 id="exerciseii"> &Uuml;bungsblatt 2 -- 09. November </h4>
-+++ Potenzreihen +++ Exp/Sin/Cos +++ Exponentialgesetze und Additionstheoreme +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
-
++++ Potenzreihen +++ Exp/Sin/Cos +++ Exponentialgesetze und Additionstheoreme+++ [zur&uuml;ck zur &Uuml;bersicht](#overview) 
 
 ### Woche 6
++++ Ableitung als Linearisierung +++ Herleitung der Cauchy-Riemann'schen Differentialgleichungen +++ Folgerungen aus den Cauchy-Riemann'schen Differentialgleichungen +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
 ### Woche 7
++++ Strecken- und Winkeltreue holomorpher Funktionen +++ Invertierbarkeit +++  [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
 <h4 id="exerciseii"> &Uuml;bungsblatt 2 -- 23. November </h4>
-+++ Komplexe Differenzierbarkeit +++ Cauchy-Riemann Differentialgleichungen +++ Ableitung von Potenzreihen +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
++++ Komplexe Differenzierbarkeit +++ Cauchy-Riemann'sche Differentialgleichungen +++ Ableitung von Potenzreihen +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
 ### Literatur
 
