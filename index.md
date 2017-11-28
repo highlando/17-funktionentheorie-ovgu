@@ -42,6 +42,7 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 | [26. Oktober](#exercisei) | I - Komplexe Zahlen | [blatt_01.pdf](files/blatt_01.pdf) |
 | [09. November](#exerciseii) | II - Potenzreihen und `Sin/Cos/Exp` | [blatt_02.pdf](files/blatt_02.pdf) |
 | [23. November](#exerciseiii) | III - Stetigkeit und Differenzierbarkeit | [blatt_03.pdf](files/blatt_03.pdf) |
+| [7. Dezember](#exerciseiv) | IV - Integration im Komplexen | [blatt_03.pdf](files/blatt_04.pdf) |
 
 ### Woche 1
 
@@ -81,6 +82,9 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 ### Woche 8
 +++ Kurven in der komplexen Ebene +++ Parametrisierung und (st&uuml;ckweise Glattheit) +++ Integration entlang von Kurven +++ Bogenl&auml;nge +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
+### Woche 9
+<h4 id="exerciseiv"> &Uuml;bungsblatt 4 -- 7. Dezember </h4>
++++ Intregal von Funktionen l&auml;ngs von Kurven +++ Parametrisierungsinvarianz +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 ### Literatur
 
 | Author | Titel | Kommentar |
