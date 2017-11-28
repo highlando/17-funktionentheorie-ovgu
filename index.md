@@ -30,8 +30,11 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
    * Sinus, Cosinus, Exponentialfunktion [[Woche 4]](#woche-4)
  2. Differentiation im Komplexen
    * Holomorphe Funktionen [[Woche 5]](#woche-5)
-   * Cauchy-Riemann'sche Differentialgleichungen 
+   * Cauchy-Riemann'sche Differentialgleichungen [[Woche 6]](#woche-6)
    * Strecken- und Winkeltreue holomorpher Funktionen
+   * Lokale Invertierbarkeit [[Woche 7]](#woche-7)
+ 3. Integration im Komplexen [[Woche 8]](#woche-8)
+   * Kurven und Kurvenintegrale
 
 
 <h3 id='uebungen'>&Uuml;bungen</h3>
@@ -74,8 +77,11 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 ### Woche 7
 +++ Strecken- und Winkeltreue holomorpher Funktionen +++ Invertierbarkeit +++  [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
-<h4 id="exerciseii"> &Uuml;bungsblatt 2 -- 23. November </h4>
+<h4 id="exerciseiii"> &Uuml;bungsblatt 3 -- 23. November </h4>
 +++ Komplexe Differenzierbarkeit +++ Cauchy-Riemann'sche Differentialgleichungen +++ Ableitung von Potenzreihen +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
+
+### Woche 8
++++ Kurven in der komplexen Ebene +++ Parametrisierung und (st&uuml;ckweise Glattheit) +++ Integration entlang von Kurven +++ Bogenl&auml;nge +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
 ### Literatur
 
