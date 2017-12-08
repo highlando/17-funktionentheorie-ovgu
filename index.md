@@ -7,8 +7,6 @@ Vorlesung und &Uuml;bungen zur Funktionentheorie - OvGU - 2017
 
 > :rocket: Raum- und Zeit&auml;nderung: Ab sofort sind wir Dienstags im G22A-119 (anstelle des Montagstermins).
 
-> :rocket: :rocket: Kleines update auf Blatt IV.
-
 Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktionentheorie* and der OvGU im Wintersemester 2017. Verantwortlich sind [Jan Heiland](http://www.mpi-magdeburg.mpg.de/person/29457/822630) and [Steffen Werner](http://www.mpi-magdeburg.mpg.de/person/38514/822672).
 
 | Tag | Zeit | Ort |
@@ -35,6 +33,8 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
    * Lokale Invertierbarkeit [[Woche 7]](#woche-7)
  3. Integration im Komplexen [[Woche 8]](#woche-8)
    * Kurven und Kurvenintegrale
+   * Stammfunktionen
+   * Wegunabh&auml;ngigkeit
 
 
 <h3 id='uebungen'>&Uuml;bungen</h3>
@@ -44,7 +44,8 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 | [26. Oktober](#exercisei) | I - Komplexe Zahlen | [blatt_01.pdf](files/blatt_01.pdf) |
 | [09. November](#exerciseii) | II - Potenzreihen und `Sin/Cos/Exp` | [blatt_02.pdf](files/blatt_02.pdf) |
 | [23. November](#exerciseiii) | III - Stetigkeit und Differenzierbarkeit | [blatt_03.pdf](files/blatt_03.pdf) |
-| [7. Dezember](#exerciseiv) | IV - Integration im Komplexen | [blatt_03.pdf](files/blatt_04.pdf) |
+| [7. Dezember](#exerciseiv) | IV - Integration im Komplexen | [blatt_04.pdf](files/blatt_04.pdf) |
+| [14. Dezember](#exerciseiv) | V - Stammfunktionen  | [blatt_05.pdf](files/blatt_05.pdf) |
 
 ### Woche 1
 
@@ -85,8 +86,17 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 +++ Kurven in der komplexen Ebene +++ Parametrisierung und (st&uuml;ckweise Glattheit) +++ Integration entlang von Kurven +++ Bogenl&auml;nge +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
 ### Woche 9
++++ Stammfunktionen +++ Integral &uuml;ber geschlossene Kurven +++ Wegunabh&auml;ngigkeit +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
+
 <h4 id="exerciseiv"> &Uuml;bungsblatt 4 -- 7. Dezember </h4>
-+++ Intregal von Funktionen l&auml;ngs von Kurven +++ Parametrisierungsinvarianz +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
++++ Intregal von Funktionen l&auml;ngs von Kurven +++ Parametrisierungsinvarianz ++ [zur&uuml;ck zur &Uuml;bersicht](#overview)+
+
+### Woche 10
++++ Cauchy Integralsatz +++  [zur&uuml;ck zur &Uuml;bersicht](#overview)
+
+<h4 id="exerciseiv"> &Uuml;bungsblatt 5 -- 14. Dezember </h4>
++++ Kettenregel +++ Stammfunktionen +++ Wegunabh&auml;ngigkeit gdw. verschwindendes Integral &ouml;ber geschlossene Kurven +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
+
 ### Literatur
 
 | Author | Titel | Kommentar |
