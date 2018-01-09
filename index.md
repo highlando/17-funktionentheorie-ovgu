@@ -33,8 +33,9 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
    * Lokale Invertierbarkeit [[Woche 7]](#woche-7)
  3. Integration im Komplexen [[Woche 8]](#woche-8)
    * Kurven und Kurvenintegrale
-   * Stammfunktionen
+   * Stammfunktionen [[Woche 9]](#woche-9)
    * Wegunabh&auml;ngigkeit
+   * Cauchy's Integralsatz [[Woche 10]](#woche-10)
 
 
 <h3 id='uebungen'>&Uuml;bungen</h3>
@@ -45,7 +46,8 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 | [09. November](#exerciseii) | II - Potenzreihen und `Sin/Cos/Exp` | [blatt_02.pdf](files/blatt_02.pdf) |
 | [23. November](#exerciseiii) | III - Stetigkeit und Differenzierbarkeit | [blatt_03.pdf](files/blatt_03.pdf) |
 | [7. Dezember](#exerciseiv) | IV - Integration im Komplexen | [blatt_04.pdf](files/blatt_04.pdf) |
-| [14. Dezember](#exerciseiv) | V - Stammfunktionen  | [blatt_05.pdf](files/blatt_05.pdf) |
+| [14. Dezember](#exercisev) | V - Stammfunktionen  | [blatt_05.pdf](files/blatt_05.pdf) |
+| [18. Januar](#exercisevi) | VI - Integrale und Singularit&auml;ten  | [blatt_06.pdf](files/blatt_06.pdf) |
 
 ### Woche 1
 
@@ -89,13 +91,25 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 +++ Stammfunktionen +++ Integral &uuml;ber geschlossene Kurven +++ Wegunabh&auml;ngigkeit +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
 <h4 id="exerciseiv"> &Uuml;bungsblatt 4 -- 7. Dezember </h4>
-+++ Intregal von Funktionen l&auml;ngs von Kurven +++ Parametrisierungsinvarianz ++ [zur&uuml;ck zur &Uuml;bersicht](#overview)+
++++ Integal von Funktionen l&auml;ngs von Kurven +++ Parametrisierungsinvarianz ++ [zur&uuml;ck zur &Uuml;bersicht](#overview)+
 
 ### Woche 10
-+++ Cauchy Integralsatz +++  [zur&uuml;ck zur &Uuml;bersicht](#overview)
++++ Konvexe- und Sterngebiete +++ Cauchys Integralsatz +++ Cauchys Integralformel +++  [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
-<h4 id="exerciseiv"> &Uuml;bungsblatt 5 -- 14. Dezember </h4>
-+++ Kettenregel +++ Stammfunktionen +++ Wegunabh&auml;ngigkeit gdw. verschwindendes Integral &ouml;ber geschlossene Kurven +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
+<h4 id="exercisev"> &Uuml;bungsblatt 5 -- 14. Dezember </h4>
++++ Kettenregel +++ Stammfunktionen +++ Wegunabh&auml;ngigkeit gdw. verschwindendes Integral &uuml;ber geschlossene Kurven +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
+
+### Woche 11
++++ Folgerungen aus Cauchys Integralformel +++ Leibnizsche Regel +++ verallgemeinerte Integralformel Cauchys +++ [zur&uuml;ck zur &Uuml;bersicht](#overview) 
+
++++ ganze Funktionen +++ Fundamentalsatz der Algebra +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
+
+### Woche 12
++++ analytische Funktionen +++ gleichm&auml;&szlig;ige Approximation +++ Potenzreihen revisited +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
+
+### Woche 13
+<h4 id="exercisevi"> &Uuml;bungsblatt 5 -- 18. Januar </h4>
++++ Integral mit Singularit&auml;ten +++ Potenzreihenentwicklung +++ Singularit&auml;ten +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
 ### Literatur
 
