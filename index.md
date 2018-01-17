@@ -5,7 +5,7 @@ layout: index
 Vorlesung und &Uuml;bungen zur Funktionentheorie - OvGU - 2017
 -----
 
-> :rocket: Raum- und Zeit&auml;nderung: Ab sofort sind wir Dienstags im G22A-119 (anstelle des Montagstermins).
+> :rocket: Es gibt Pr&uuml;fungstermine: 05., 15. und 28. M&auml;rz sowie noch Termine im April. Wer es nicht schafft, sich in *die* Liste einzutragen, der meldet sich per Email.
 
 Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktionentheorie* and der OvGU im Wintersemester 2017. Verantwortlich sind [Jan Heiland](http://www.mpi-magdeburg.mpg.de/person/29457/822630) and [Steffen Werner](http://www.mpi-magdeburg.mpg.de/person/38514/822672).
 
@@ -48,6 +48,7 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 | [7. Dezember](#exerciseiv) | IV - Integration im Komplexen | [blatt_04.pdf](files/blatt_04.pdf) |
 | [14. Dezember](#exercisev) | V - Stammfunktionen  | [blatt_05.pdf](files/blatt_05.pdf) |
 | [18. Januar](#exercisevi) | VI - Integrale und Singularit&auml;ten  | [blatt_06.pdf](files/blatt_06.pdf) |
+| [25. Januar](#exercisevii) | VII - Definitionen und Beispiele  | [blatt_06.pdf](files/blatt_06.pdf) |
 
 ### Woche 1
 
@@ -108,9 +109,38 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 +++ analytische Funktionen +++ gleichm&auml;&szlig;ige Approximation +++ Potenzreihen revisited +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
 ### Woche 13
-<h4 id="exercisevi"> &Uuml;bungsblatt 5 -- 18. Januar </h4>
++++ Charakterisierung von isolierten Singularit&auml;ten +++ Laurent-Reihen +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
+
+<h4 id="exercisevi"> &Uuml;bungsblatt 6 -- 18. Januar </h4>
 +++ Integral mit Singularit&auml;ten +++ Potenzreihenentwicklung +++ Singularit&auml;ten +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
+
+### Woche 13
++++ Charakterisierung von isolierten Singularit&auml;ten +++ Laurent-Reihen +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
+
+<h4 id="exercisevii"> &Uuml;bungs 7 -- 25. Januar </h4>
+Man trage eine der folgenden Definitionen frei vor und erl&auml;utere sie mit Hilfe einer Illustration oder einem Beispiel.
+
+ * 1.1  	imaginaere Einheit, komplexe Zahl, Gleichheit, Menge CC, Komplexe Ebene
+ * 			Konvergente Folge und Reihe
+ * 			Konvergenzbereich
+ * 			Exponentialfunktion, Sinus/Kosinus
+ * 1.8 		Stetigkeit von Funktionen 
+ * 2.1 		Komplex differenzierbar
+ * 2.1.1 	Holomorphe Funktion
+ * (2.6) 	Cauchy-Riemann Differentialgleichungen
+ * 3.1 		Kurve ((stckw.) glatt)
+ * 3.2 		Kurvenintegral
+ * 3.3 		Stammfunktion
+ * (3.6 	Gebiet)
+ * 3.17 	ganze Funktion
+ * (4.1 	glm. Konvergenz)
+ * (4.6 	glm. Konvergenz bei Funktionenreihen)
+ * 5.1 		punktierte Kreisscheibe
+ * 5.2 		isolierte Singularitaet (hebbar, Pol, wesentlich)
+ * 5.7 		Laurent-Reihe (Hauptteil, Regulaerteil)
+ * 			Konvergenzbereich der Laurent-Reihe
+ * 5.11 	Residuum
 ### Literatur
 
 | Author | Titel | Kommentar |
