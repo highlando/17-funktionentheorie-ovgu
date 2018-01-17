@@ -5,7 +5,7 @@ layout: index
 Vorlesung und &Uuml;bungen zur Funktionentheorie - OvGU - 2017
 -----
 
-> :rocket: Es gibt Pr&uuml;fungstermine: 05., 15. und 28. M&auml;rz sowie noch Termine im April. Wer es nicht schafft, sich in *die* Liste einzutragen, der meldet sich per Email.
+> :rocket: Es gibt Pr&uuml;fungstermine: 05., 15. und 28. M&auml;rz und 09. April. Wer es nicht schafft, sich in *die* Liste einzutragen, der meldet sich per Email.
 
 Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktionentheorie* and der OvGU im Wintersemester 2017. Verantwortlich sind [Jan Heiland](http://www.mpi-magdeburg.mpg.de/person/29457/822630) and [Steffen Werner](http://www.mpi-magdeburg.mpg.de/person/38514/822672).
 
