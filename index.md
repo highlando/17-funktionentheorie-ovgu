@@ -48,7 +48,7 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 | [7. Dezember](#exerciseiv) | IV - Integration im Komplexen | [blatt_04.pdf](files/blatt_04.pdf) |
 | [14. Dezember](#exercisev) | V - Stammfunktionen  | [blatt_05.pdf](files/blatt_05.pdf) |
 | [18. Januar](#exercisevi) | VI - Integrale und Singularit&auml;ten  | [blatt_06.pdf](files/blatt_06.pdf) |
-| [25. Januar](#exercisevii) | VII - Definitionen und Beispiele  | [blatt_06.pdf](files/blatt_06.pdf) |
+| [25. Januar](#exercisevii) | VII - Definitionen und Beispiele  | [nur online](#exercisevii) |
 
 ### Woche 1
 
@@ -118,7 +118,7 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 ### Woche 13
 +++ Charakterisierung von isolierten Singularit&auml;ten +++ Laurent-Reihen +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
-<h4 id="exercisevii"> &Uuml;bungs 7 -- 25. Januar </h4>
+<h4 id="exercisevii"> &Uuml;bung 7 -- 25. Januar </h4>
 Man trage eine der folgenden Definitionen frei vor und erl&auml;utere sie mit Hilfe einer Illustration oder einem Beispiel.
 
  * 1.1  	imaginaere Einheit, komplexe Zahl, Gleichheit, Menge CC, Komplexe Ebene
@@ -141,6 +141,8 @@ Man trage eine der folgenden Definitionen frei vor und erl&auml;utere sie mit Hi
  * 5.7 		Laurent-Reihe (Hauptteil, Regulaerteil)
  * 			Konvergenzbereich der Laurent-Reihe
  * 5.11 	Residuum
+
+
 ### Literatur
 
 | Author | Titel | Kommentar |
