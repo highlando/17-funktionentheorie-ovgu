@@ -115,8 +115,8 @@ Hier gibt's die grundlegenden und aktuelle Informationen zur Vorlesung *Funktion
 +++ Integral mit Singularit&auml;ten +++ Potenzreihenentwicklung +++ Singularit&auml;ten +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
 
-### Woche 13
-+++ Charakterisierung von isolierten Singularit&auml;ten +++ Laurent-Reihen +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
+### Woche 14
++++ Laurent-Reihen +++ Residuen +++ [zur&uuml;ck zur &Uuml;bersicht](#overview)
 
 <h4 id="exercisevii"> &Uuml;bung 7 -- 25. Januar </h4>
 Man trage eine der folgenden Definitionen frei vor und erl&auml;utere sie mit Hilfe einer Illustration oder einem Beispiel.
